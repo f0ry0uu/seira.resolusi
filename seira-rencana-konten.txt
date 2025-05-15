@@ -6,3 +6,4 @@ RENCANA KONTEN SEIRA
 - PHP Frameworks
 - Interview
 - Vlog
+- Struktur Data Dasar
