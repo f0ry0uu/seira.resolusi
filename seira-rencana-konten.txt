@@ -8,6 +8,5 @@ RENCANA KONTEN SEIRA
 - PHP Frameworks
   ^ Laravel
 - Interview
-- Vlog
 - Struktur Data Dasar
 - Python
