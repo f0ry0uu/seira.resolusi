@@ -3,7 +3,11 @@ RENCANA KONTEN SEIRA
 - JavaScript
 * ES6
 * Framework JavaScript
+  ^ Vue
+  ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlog
 - Struktur Data Dasar
+- Python
